@@ -2,5 +2,5 @@ Resolusi
 - Konsisten membaca alur repo existing FE Corebanking minimal 2 fitur
 - Analisa dan manage hasil pembelajaran poin diatas
 - Berdiskusi intens untuk Fitur-fitur FE Corebanking
-- Membuat Forum dan Merchandise Shop
 - Collabs dengan banyak expert FE
+- Membuat Video Tutorial
