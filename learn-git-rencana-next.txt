@@ -1,0 +1,4 @@
+Rencana konten
+- Membuat dasar HTML dan CSS
+- Membuat dasar python
+- Membuat Vlog
