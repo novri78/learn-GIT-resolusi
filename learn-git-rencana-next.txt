@@ -1,4 +1,7 @@
 Rencana konten
 - Membuat dasar HTML dan CSS
+  * Langkah langkah tentang HTML
+  * Pendekatan CSS
 - Membuat dasar python
+  * Langkah langkah tentang Python
 - Membuat Vlog
