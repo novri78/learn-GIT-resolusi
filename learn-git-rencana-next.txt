@@ -3,6 +3,7 @@ Rencana konten
   * Langkah langkah tentang HTML
   * Pendekatan CSS
   * Contoh Kasus/Percobaan Project
-- Membuat dasar python
-  * Langkah langkah tentang Python
+    # Angular
+    # REACT
 - Membuat Vlog
+  * Video pengenalan dasar
