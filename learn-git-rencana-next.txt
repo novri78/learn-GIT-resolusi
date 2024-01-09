@@ -3,6 +3,10 @@ Rencana konten
   * Langkah langkah tentang HTML
   * Pendekatan CSS
   * Contoh Kasus/Percobaan Project
+    * sample dengan pendekatan Javascript
+    * sample dengan VUE.Js
+    * REACT.Js
 - Membuat dasar python
   * Langkah langkah tentang Python
 - Membuat Vlog
+  * Compile Video-video tutorial HTML,CSS & PYTHON
